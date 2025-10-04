@@ -1158,3 +1158,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.04-09.55.27:883][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2025.10.04-09.55.33:757][278]LogPSOHitching: Encountered 200 PSO creation hitches so far (42 graphics, 158 compute). 0 of them were precached.
 [2025.10.04-09.57.02:178][753]LogDerivedDataCache: C:/Users/Cio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.04-10.00.36:850][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 330.439148
+[2025.10.04-10.00.37:849][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-10.00.37:851][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 331.105896, Update Interval: 330.143738
